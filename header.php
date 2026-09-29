@@ -24,7 +24,7 @@ $current_page = $current_page ?? 'home';
 
         <!-- Botón de Acción a la derecha -->
         <div class="header-actions">
-            <a href="https://open.spotify.com" target="_blank" rel="noopener noreferrer" class="btn-header">Escuchar</a>
+            <a href="https://open.spotify.com/intl-es/artist/3c0gDdb9lhnHGFtP4prQpn?si=yV4u8bncQ9yYJK87KWPtCw" target="_blank" rel="noopener noreferrer" class="btn-header">Escuchar</a>
         </div>
     </div>
 
