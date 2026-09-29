@@ -18,7 +18,7 @@ $current_page = $current_page ?? 'home';
                 <li><a href="index.php" class="nav-link <?php echo (isset($current_page) && $current_page == 'home') ? 'active' : ''; ?>">Inicio</a></li>
                 <li><a href="members.php" class="nav-link <?php echo (isset($current_page) && $current_page == 'members') ? 'active' : ''; ?>">Integrantes</a></li>
                 <li><a href="music.php" class="nav-link <?php echo (isset($current_page) && $current_page == 'music') ? 'active' : ''; ?>">Música</a></li>
-                <li><a href="gallery.php" class="nav-link <?php echo (isset($current_page) && $current_page == 'gallery') ? 'active' : ''; ?>">Galería</a></li>
+                <li><a href="store.php" class="nav-link <?php echo (isset($current_page) && $current_page == 'store') ? 'active' : ''; ?>">Store</a></li>
             </ul>
         </nav>
 
